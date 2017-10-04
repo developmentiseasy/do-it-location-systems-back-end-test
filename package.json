@@ -1,0 +1,19 @@
+{
+  "name": "do-it-location-systems-back-end-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "author": "Dmitriy Barchuk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
